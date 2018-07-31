@@ -5,6 +5,6 @@
     "start" : "node Server.js"
   },
   "dependencies" : {
-    "express" : "latest"
+    "express" : "^4.8.2"
   }
 }
